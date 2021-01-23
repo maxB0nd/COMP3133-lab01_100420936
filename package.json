@@ -1,0 +1,21 @@
+{
+  "name": "lab01_100420936",
+  "version": "1.0.0",
+  "description": "Lab01: Read the given CSV file using stream or fs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "fullstack2",
+    "stream",
+    "fs",
+    "node"
+  ],
+  "author": "Max Bondarenko",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
